@@ -1,2 +1,1 @@
-# Terraform-Test-Repository
-JioProject Repository
+This is sample file
